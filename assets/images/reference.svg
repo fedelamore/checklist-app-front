@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120">
+  <rect width="320" height="120" fill="#F5F5F5" rx="12" />
+  <g font-family="'Roboto', 'Helvetica', 'Arial', sans-serif" fill="#2F2F2F">
+    <text x="24" y="52" font-size="24" font-weight="bold">Checklist App</text>
+    <text x="24" y="84" font-size="16">Adicione aqui suas imagens de referência.</text>
+  </g>
+  <g fill="none" stroke="#4CAF50" stroke-width="4" stroke-linecap="round">
+    <path d="M240 36l20 20 36-36" />
+  </g>
+</svg>
